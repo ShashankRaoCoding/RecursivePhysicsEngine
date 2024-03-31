@@ -1,0 +1,5 @@
+game_object([350, 90],[0, 0], [default_image],False,False,False,False,[0,0,0,0],False,do_nothing) 
+game_object([860, 80],[340, 0], [default_image],False,False,False,False,[0,0,0,0],False,do_nothing) 
+game_object([420, 80],[780, 420], [default_image],False,False,False,False,[0,0,0,0],False,do_nothing) 
+game_object([360, 100],[80, 490], [default_image],False,False,False,False,[0,0,0,0],False,do_nothing) 
+game_object([1200, 60],[0, 640], [default_image],False,False,False,False,[0,0,0,0],False,do_nothing) 
