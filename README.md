@@ -1,4 +1,6 @@
-# THis project has been superceded by Ideate2D (available on my github: shashankraocoding.github.io/Ideate2D/) 
+# This project has been superceded by Ideate2D (available on my github: shashankraocoding.github.io/Ideate2D/) 
+
+
 
 
 
