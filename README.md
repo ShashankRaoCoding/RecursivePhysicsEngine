@@ -1,3 +1,7 @@
+# THis project has been superceded by Ideate2D (available on my github: shashankraocoding.github.io/Ideate2D/) 
+
+
+
 # RecursivePhysics 
 
 This is a simple physics engine I wrote in Python for use with Pygame game development. I wrote this to use in my own videogame development, but figured it might be of use to some new developers who are just getting started. The initialisation section has parameters that can be tweaked and adjusted for various jump heights, gravity, and to even convert the experience from a 2D-sidescroller to a 2D-top down game. 
